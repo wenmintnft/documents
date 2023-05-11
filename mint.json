@@ -24,16 +24,16 @@
   "anchors": [],
   "navigation": [
     {
-      "group": "Home",
-      "pages": ["introduction"]
+      "group": "",
+      "pages": ["introduction", "wallets", "contracts" ]
     },
     {
-      "group": "WEN Token",
-      "pages": ["token-website-terms", "token-issuance-terms"]
+      "group": "Overview",
+      "pages": ["tokenomics", "governance", "staking", "utility"]
     },
     {
-      "group": "WEN DAO",
-      "pages": ["dao-charter"]
+      "group": "Legal",
+      "pages": ["privacy", "token-website-terms", "token-issuance-terms", "constitution"]
     }
   ],
   "footerSocials": {
