@@ -29,7 +29,7 @@
     },
     {
       "group": "WEN Token",
-      "pages": ["token-website-terms"]
+      "pages": ["token-website-terms", "token-issuance-terms"]
     },
     {
       "group": "WEN Staking",
