@@ -31,10 +31,6 @@
       "group": "WEN Token",
       "pages": ["token-website-terms", "token-issuance-terms"]
     },
-    // {
-    //   "group": "WEN Staking",
-    //   "pages": ["staking-privacy", "staking-terms"]
-    // },
     {
       "group": "WEN DAO",
       "pages": ["dao-charter"]
