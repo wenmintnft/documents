@@ -29,7 +29,7 @@
     },
     {
       "group": "Overview",
-      "pages": ["tokenomics", "governance", "staking", "utility"]
+      "pages": ["tokenomics", "governance", "staking", "utility", "airdrop", "vesting"]
     },
     {
       "group": "Legal",
@@ -39,5 +39,9 @@
   "footerSocials": {
     "twitter": "https://twitter.com/WENTokenOrg",
     "telegram": "https://t.me/+VIRNvdsPYVZkNmJh"
+  },
+  "modeToggle": {
+    "default": "dark",
+    "isHidden": true
   }
 }
