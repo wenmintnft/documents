@@ -25,7 +25,7 @@
   "navigation": [
     {
       "group": "",
-      "pages": ["introduction", "wallets", "contracts" ]
+      "pages": ["introduction", "wallets", "contracts", "branding" ]
     },
     {
       "group": "Overview",
