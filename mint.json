@@ -11,16 +11,6 @@
     "light": "#0096ff",
     "dark": "#0047ab"
   },
-  "topbarLinks": [
-    {
-      "name": "Documentation",
-      "url": "https://mintlify.com/docs"
-    }
-  ],
-  "topbarCtaButton": {
-    "name": "Get Started",
-    "url": "https://github.com/mintlify/starter"
-  },
   "anchors": [],
   "navigation": [
     {
@@ -29,7 +19,7 @@
     },
     {
       "group": "Overview",
-      "pages": ["tokenomics", "governance", "staking", "utility", "airdrop", "vesting"]
+      "pages": ["tokenomics", "governance", "airdrop"]
     },
     {
       "group": "Legal",
